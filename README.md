@@ -1,5 +1,6 @@
+# 11402_CS351
 
-# AI-assisted Software Development
+## AI-assisted Software Development
 
 AI-assisted Software Development focuses on using modern AI tools to plan, implement, test, debug, and document software more effectively. The course covers:
 
